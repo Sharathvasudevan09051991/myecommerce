@@ -1,0 +1,2 @@
+export const CREATE_CATEGORY = 'CREATE_CATEGORY';
+export const ERR_CATEGORY = 'ERR_CATEGORY';
