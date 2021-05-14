@@ -1,2 +1,2 @@
-export const CREATE_CATEGORY = 'CREATE_CATEGORY';
-export const ERR_CATEGORY = 'ERR_CATEGORY';
+export const LOGGED_IN_USER = 'LOGGED_IN_USER'
+export const LOGOUT = 'LOGOUT'  
